@@ -11,7 +11,7 @@
 ### ✨&nbsp;  Sobre mim
 
 Sou um estudante de Análise e Desenvolvimento de Sistema 🎓, apaixonado por tecnologia e inovações.
-Me considero autoditada e sempre que for presiso busco informações e resoluções em diferentes fontes, tive contado com tecnologias como html, css, javascript, linguagem c, MySql e java.
+Me considero autoditada e sempre que for preciso busco informações e resoluções em diferentes fontes, tive contado com tecnologias como html, css, javascript, linguagem c, MySql e java.
 Atualmente focado no estudo java e o ecossistema java, fazendo curso e projetos!
 
 Sempre em busca de desafios ✅
