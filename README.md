@@ -1,7 +1,6 @@
 ### Olá! Meu nome é thiago Fonseca <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
   Codificando codigos em soluções 🌐 
 
-- 🔭 &nbsp;Atuamente estou realizando projetos legais 😉
 - 🚀 &nbsp;Atualmente estou estudando java web 💻
 - 💬 &nbsp;Pergunte-me sobre tecnologia, adoro bater um papo sobre 💡
 - ⭐ &nbsp;Participo de eventos tech ✨
@@ -11,7 +10,7 @@
 ### ✨&nbsp;  Sobre mim
 
 Sou um estudante de Análise e Desenvolvimento de Sistema 🎓, apaixonado por tecnologia e inovações.
-Me considero autoditada e sempre que for preciso busco informações e resoluções em diferentes fontes, tive contado com tecnologias como html, css, javascript, linguagem c, MySql e java.
+Me considero autoditada e sempre que for preciso busco informações e resoluções em diferentes fontes, conhecimento com tecnologias como html, Javascript, linguagem C, MySql e Java.
 Atualmente focado no estudo java e o ecossistema java, fazendo curso e projetos!
 
 Sempre em busca de desafios ✅
