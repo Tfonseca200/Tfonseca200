@@ -1,11 +1,11 @@
 ### Olá! Meu nome é thiago Fonseca <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
   Codificando codigos em soluções 🌐 
 
-- 💻 Em construção de portfolio
 - 🚀 &nbsp;Atualmente estou estudando java web 💻
 - 💬 &nbsp;Pergunte-me sobre tecnologia, adoro bater um papo sobre 💡
 - ⭐ &nbsp;Participo de eventos tech ✨
 - ⚡ &nbsp;Curiosidades: Amo futebol e esportes 🎯
+- 💻 Em construção de portfolio
 
 
 ### ✨&nbsp;  Sobre mim
