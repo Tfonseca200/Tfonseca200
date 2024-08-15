@@ -6,6 +6,7 @@
 - ⚡ &nbsp;Curiosidades: Amo futebol e esportes 🎯
 - 💻 Em construção de portfolio
 
+<br>
 
 ### ✨&nbsp;  Sobre mim
 
@@ -13,6 +14,8 @@ Sou um estudante de Análise e Desenvolvimento de Sistema 🎓, apaixonado por t
 Me considero autoditada e sempre que for preciso busco informações e resoluções em diferentes fontes.
 
 Sempre em busca de desafios ✅
+
+<br>
 
 ### Tecnologias
 
