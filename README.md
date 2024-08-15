@@ -6,7 +6,6 @@
 - ⚡ &nbsp;Curiosidades: Amo futebol e esportes 🎯
 - 💻 Em construção de portfolio
 
-<br>
 
 ### ✨&nbsp;  Sobre mim
 
@@ -15,7 +14,6 @@ Me considero autoditada e sempre que for preciso busco informações e resoluç�
 
 Sempre em busca de desafios ✅
 
-<br>
 
 ### Tecnologias
 
