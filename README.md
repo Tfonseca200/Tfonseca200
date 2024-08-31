@@ -1,4 +1,4 @@
-### Olá! Meu nome é thiago Fonseca <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Olá! Meu nome é thiago Fonseca e sou desenvolvedor back-end<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 - 🚀 &nbsp;Atualmente estou estudando java e o ecossitema Spring, teste de software e automação de testes 💻
 - 💬 &nbsp;Pergunte-me sobre tecnologia, adoro bater um papo sobre 💡
