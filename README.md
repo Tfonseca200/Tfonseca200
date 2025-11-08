@@ -1,19 +1,21 @@
-### Olá! Meu nome é thiago Fonseca<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Olá! Meu nome é Thiago Fonseca<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 🚀 &nbsp;Atualmente estou estudando java e o ecossitema Spring, teste de software e automação de testes 💻
+- ⚙️ &nbsp;Atualmente, meu foco de estudos é o ecossistema de **DevOps**, **Cloud** e **SRE**, visando a automação e a construção de soluções tecnológicas.
 - 💬 &nbsp;Pergunte-me sobre tecnologia, adoro bater um papo sobre 💡
-- ⭐ &nbsp;Participo de eventos tech ✨
-- ⚡ &nbsp;Curiosidades: Amo futebol e esportes 🎯
-- 💻 Em construção de portfolio
+- ⭐ &nbsp;Participo ativamente de eventos tech ✨
+- ⚽ &nbsp;Curiosidade: Sou apaixonado por futebol e esportes.
+- 🚧 &nbsp;Portfólio em construção.
 
+---
 
-### ✨&nbsp;  Sobre mim
+### ✨&nbsp;  Sobre mim
 
-Sou um estudante de Análise e Desenvolvimento de Sistema 🎓, apaixonado por tecnologia e inovações.
-Me considero autoditada e sempre que for preciso busco informações e resoluções em diferentes fontes.
+Sou formado em Análise e Desenvolvimento de Sistemas e participei de diversos projetos de desenvolvimento e testes, o que me proporcionou uma visão ampla do ciclo completo de software desde o planejamento e análise até a homologação e monitoramento.
+
+Sou movido por desafios técnicos e aprendizado contínuo, explorando constantemente tecnologias e práticas voltadas à automação, observabilidade, pipelines CI/CD e cloud computing, com o objetivo de entregar soluções escaláveis, seguras e de alta qualidade.
+
 
 Sempre em busca de desafios ✅
-
 
 ### Tecnologias
 
